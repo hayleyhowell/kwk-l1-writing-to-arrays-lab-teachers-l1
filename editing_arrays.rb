@@ -22,4 +22,5 @@ def add_colors
   colors = change_rainbow_colors
   colors.push("green")
   colors.push("blue")
+  colors 
 end
